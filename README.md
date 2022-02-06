@@ -26,7 +26,7 @@ I'm a software developer based in Buenos Aires AR, I specialize in making functi
 - 💬 Ask me about Web development or anything else you think I might be interested am always ok to chat with new people.
 - 📫 How to reach me: dandervich@hotmail.com
 
-or look at my personal portfolio at: <a href="https://portfolio-dan-dervich.vercel.app/"> here </a>
+or look at my personal portfolio at: <a target="_blank" href="https://portfolio-dan-dervich.vercel.app/"> here </a>
 
 <a href="https://github.com/dan-dervich">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dan-dervich&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
