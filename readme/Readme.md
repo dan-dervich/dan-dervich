@@ -1,13 +1,6 @@
-<p align="center">
-  <a href="https://jrgarciadev.com" target="_blank">
-    <img width="40em" height="40em" src="https://portfoliov2-ruby.vercel.app/logo.svg">
-  </a>
-</p
-
 <h2> Welcome 👋 , I'm Dan Dervich.</h2>
 
 I'm a software developer based in Buenos Aires AR, I specialize in making functional and beautiful websites.
-
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -29,8 +22,8 @@ I'm a software developer based in Buenos Aires AR, I specialize in making functi
 <h3> Contact:</h3>
 
 - 🔭 I’m currently working on some presonal projects
-- 👯 I’m looking to collaborate on more open source projects 
-- 💬 Ask me about Web development or anything else you think I might be interested am always ok to chat with new people. 
+- 👯 I’m looking to collaborate on more open source projects
+- 💬 Ask me about Web development or anything else you think I might be interested am always ok to chat with new people.
 - 📫 How to reach me: dandervich@hotmail.com
 
 or look at my personal portfolio at: https://portfolio-dan-dervich.vercel.app/
@@ -38,5 +31,3 @@ or look at my personal portfolio at: https://portfolio-dan-dervich.vercel.app/
 <a href="https://github.com/jrgarciadev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dan-dervich&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
 </a>
-
-
