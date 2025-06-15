@@ -19,11 +19,8 @@ I'm a software developer based in Buenos Aires AR, I specialize in making functi
 
 <br/>
 
-<h3> Contact:</h3>
-
 - 🔭 I’m currently working on some presonal projects
-- 👯 I’m looking to collaborate on more open source projects
-- 💬 Ask me about Web development or anything else you think I might be interested am always ok to chat with new people.
-- 📫 How to reach me: dandervich@hotmail.com
+- 💬 Ask me about Web development or anything else you think I might be interested I'm always ok to chat with new people.
+- 📫 How to reach me: dandervich@gmail.com
 
 or look at my personal portfolio at: <a target="_blank" href="https://portfolio-dan-dervich.vercel.app/"> here </a>
